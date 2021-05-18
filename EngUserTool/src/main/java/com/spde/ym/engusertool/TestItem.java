@@ -15,7 +15,6 @@ import javax.swing.JTextField;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import static com.spde.ym.engusertool.UartAT.BASIC_AT_COMMAND;
 import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_FAIL_COMMAND;
 import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_HEAD;
 import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_SUC_COMMAND;

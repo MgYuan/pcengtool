@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-import static com.spde.ym.engusertool.UartAT.BASIC_AT_COMMAND;
 
 public class KeypadTest extends TestItem {
 

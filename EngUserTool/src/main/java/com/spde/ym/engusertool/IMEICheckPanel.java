@@ -10,7 +10,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_FAIL_COMMAND;
 import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_HEAD;
 import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_SUC_COMMAND;
 import static com.spde.ym.engusertool.UartAT.BASIC_AT_OVER_TAIL;

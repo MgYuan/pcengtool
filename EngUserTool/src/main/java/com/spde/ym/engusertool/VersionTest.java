@@ -1,11 +1,5 @@
 package com.spde.ym.engusertool;
 
-import java.awt.GridLayout;
-
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JTextArea;
-import javax.swing.JTextField;
 
 public class VersionTest extends TestItem {
 

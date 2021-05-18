@@ -2,7 +2,6 @@ package com.spde.ym.engusertool;
 
 import javax.swing.JTextArea;
 
-import static com.spde.ym.engusertool.UartAT.AT_COMMAND_OK;
 
 public class RFCalibrationTest extends TestItem {
 
